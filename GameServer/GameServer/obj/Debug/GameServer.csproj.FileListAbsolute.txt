@@ -1,0 +1,7 @@
+C:\Users\widebrain\Desktop\UnityMultiGame\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\widebrain\Desktop\UnityMultiGame\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\widebrain\Desktop\UnityMultiGame\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\widebrain\Desktop\UnityMultiGame\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\Users\widebrain\Desktop\UnityMultiGame\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\widebrain\Desktop\UnityMultiGame\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\widebrain\Desktop\UnityMultiGame\GameServer\GameServer\obj\Debug\GameServer.pdb
