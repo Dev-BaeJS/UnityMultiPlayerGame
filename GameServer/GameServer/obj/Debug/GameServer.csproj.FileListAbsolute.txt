@@ -12,3 +12,6 @@ C:\Users\widebrain\Desktop\UnityMultiGame\UnityMultiPlayerGame\GameServer\GameSe
 C:\Users\widebrain\Desktop\UnityMultiGame\UnityMultiPlayerGame\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
 C:\Users\widebrain\Desktop\UnityMultiGame\UnityMultiPlayerGame\GameServer\GameServer\obj\Debug\GameServer.exe
 C:\Users\widebrain\Desktop\UnityMultiGame\UnityMultiPlayerGame\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\widebrain\Desktop\UnityMultiGame\UnityMultiPlayerGame\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\widebrain\Desktop\UnityMultiGame\UnityMultiPlayerGame\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\widebrain\Desktop\UnityMultiGame\UnityMultiPlayerGame\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
