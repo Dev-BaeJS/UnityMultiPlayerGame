@@ -12,3 +12,6 @@ Step 3:
 
 Step 4:
 Player 생성과 Player 이동, 회전 
+
+Step 5:
+강제 종료 시 연결 끊기
