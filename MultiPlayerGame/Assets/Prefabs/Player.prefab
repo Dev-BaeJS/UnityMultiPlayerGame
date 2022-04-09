@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8793036673440946783}
   - component: {fileID: 5474931630841852486}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Model
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -142,3 +142,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 0
   username: 
+  health: 0
+  maxHealth: 100
+  model: {fileID: 8793036673440946783}
